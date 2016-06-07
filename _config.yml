@@ -7,13 +7,16 @@
 
 # Site settings
 title: Ben Rakestraw
-email: your-email@domain.com
+email: benrakestraw1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Description for site?
+  This is a site for me to try to learn website building and administration. 
+  I will also post blogs... I guess. 
+  I am trying to do everything from the terminal in linux.
+  Someday I will get around to reserving a real domain.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: benrakestraw
+github_username:  btr886m
 
 # Build settings
 markdown: kramdown
